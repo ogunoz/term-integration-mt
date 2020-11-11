@@ -1,3 +1,3 @@
 [submodule "sockeye"]
 	path = sockeye
-	url = https://github.com/awslabs/sockeye.git
+	url = https://github.com/ogunoz/sockeye.git
