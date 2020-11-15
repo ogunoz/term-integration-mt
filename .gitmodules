@@ -1,3 +1,6 @@
 [submodule "sockeye"]
 	path = sockeye
 	url = https://github.com/ogunoz/sockeye.git
+[submodule "BERT-NER"]
+	path = BERT-NER
+	url = https://github.com/ogunoz/BERT-NER.git
