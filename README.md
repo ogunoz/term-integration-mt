@@ -1,2 +1,2 @@
 # term-integration-mt
-The source code repository for the thesis "Lexicalized Domain Adaptation of Neural Machine Translation for Morphologically Rich Languages"
+The source code repository for the thesis "Lexicalized Domain Adaptation for Neural Machine Translation of Morphologically Rich Languages"
