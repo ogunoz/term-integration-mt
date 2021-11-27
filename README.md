@@ -50,3 +50,6 @@ Multi-Choice Lexical Constraints <sub>(with alll lemmata matching constraints)</
 Post and Vilar, 2018 <sub>(with **BERT** selected constraints)</sub>                             | 63.90      | 74.35      | 84.73        | 79.20    | 27.4 (-1.4)
 Multi-Choice Lexical Constraints <sub>(with random subset of lemmata matching constraints)</sub> | 72.31      | 65.17       | 82.54        | 72.83    | 27.3 (-1.5)
 **Multi-Choice Lexical Constraints*** <sub>(with **BERT** selected constraints)</sub>            | 63.84      | 75.84       | 84.52        | **79.94**| **28.1 (-0.7)**
+
+## TODO
+- [ ] Update sockeye.lexical_constraints script to produce MLC compatible constraints.
